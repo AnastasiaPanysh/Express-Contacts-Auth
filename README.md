@@ -14,4 +14,4 @@ Before running the project, ensure that Node.js and MongoDB are installed on you
 3. To start the server: nodemon index     
 
 ## Contributing
-If you'd like to contribute to the project, feel free to submit a pull request. Contributions are always welcome!
+If you find a bug or have an idea for a new feature, please submit an issue or create a pull request.
